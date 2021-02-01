@@ -1,4 +1,4 @@
 rootProject.name = 'hibernate-wildfly-test-case-templates'
 
 include 'orm51'
-include 'orm53'
+

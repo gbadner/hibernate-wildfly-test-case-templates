@@ -9,4 +9,5 @@ dependencies {
 
 	testCompile group: 'org.hibernate', name: 'hibernate-validator', version: '5.2.4.Final'
 
+	runtimeOnly group: hibernateGroupId, name: 'hibernate-infinispan', version: hibernateVersion
 }
